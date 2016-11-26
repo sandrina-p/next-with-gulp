@@ -1,5 +1,5 @@
 # next.js with Gulp
-A simple boilerplate that uses next.js with gulp with a simples task to minify scss
+A very simple example that uses next.js with gulp with a task to watch and minify scss
 
 **What is [Next.js](https://zeit.co/blog/next)**
 > a small framework for server-rendered universal JavaScript webapps, built on top of React, Webpack and Babel.
