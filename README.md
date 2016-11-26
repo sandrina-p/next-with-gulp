@@ -5,7 +5,10 @@ A very simple example that uses next.js with gulp with a task to watch and minif
 > a small framework for server-rendered universal JavaScript webapps, built on top of React, Webpack and Babel.
 
 **What is [Gulp](gulpjs.com)**
-A Javascript task runner that lets you automate tasks such as minifying js and (s)css and refreshing your browser links when you save your files.
+
+> A Javascript task runner that lets you automate tasks such as minifying js and (s)css and refreshing your browser links when you save your files.
+
+<br>
 
 **How to make it work:**
 
@@ -13,7 +16,6 @@ A Javascript task runner that lets you automate tasks such as minifying js and (
 
 `npm install`
 
-<br>
 
 - You need to have next and gulp running at the same time.
 
