@@ -8,8 +8,12 @@ A simple boilerplate that uses next.js with gulp with a simples task to minify s
 A Javascript task runner that lets you automate tasks such as minifying js and (s)css and refreshing your browser links when you save your files.
 
 **How to make it work:**
+
 1. install node_modules needed:
+
 `npm install`
+
+<br><br>
 
 2. You need to have next and gulp running at the same time.
 
@@ -19,7 +23,7 @@ Next : `npm run dev`
 
 _Ready to go!_
 
-
+<br><br>
 **Browser-sync**
 Since Next.js injects .css files through React render(), browser-sync seems to not find those css files to update them when you make changes. At least I couldn't find a solution :(
 
