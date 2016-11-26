@@ -12,7 +12,9 @@ A Javascript task runner that lets you automate tasks such as minifying js and (
 `npm install`
 
 2. You need to have next and gulp running at the same time.
+
 Gulp : `gulp watch`
+
 Next : `npm run dev`
 
 _Ready to go!_
