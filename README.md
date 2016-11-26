@@ -1,4 +1,4 @@
-# next-with-gulp boilerplate
+# next.js with Gulp
 A simple boilerplate that uses next.js with gulp with a simples task to minify scss
 
 **What is [Next.js](https://zeit.co/blog/next)**
