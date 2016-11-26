@@ -17,7 +17,7 @@ A very simple example that uses next.js with gulp with a task to watch and minif
 `npm install`
 
 
-- You need to have next and gulp running at the same time.
+- You need to have `next` and `gulp` running at the same time:
 
 Gulp : `gulp watch`
 
